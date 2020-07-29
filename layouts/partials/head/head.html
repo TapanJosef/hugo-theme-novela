@@ -27,25 +27,4 @@
     {{ with .Params.forestry_instant_preview_id }}
       {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}
     {{ end -}}
-        <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "url": "https://www.example.com/",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://query.example.com/search?q={search_term_string}",
-        "query-input": "required name=search_term_string"
-      }
-    }
- <title>#</title>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "url": "http://www.example.com",
-      "logo": "http://www.example.com/images/logo.png"
-    }
-    </script>
-    </script>
 </head>
