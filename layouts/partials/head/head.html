@@ -1,5 +1,20 @@
+<!doctype html>
+<html lang="en">
 <head>
+    <meta name="generator" content="Hugo 0.74.2" />
     <meta charset="utf-8">
+    <meta name="identifier-URL" content="http://www.yoursite.com">
+    <metaname="directory" content="submission">
+    <meta name="Classification" content="Business">
+    <meta name="coverage" content="Worldwide">
+    <meta name="rating" content="General">
+    <meta name="robots" content="index,follow" />
+    <meta name="keywords" content="your, tags"/>
+    <meta name="description" content="150 words"/>
+    <meta name="subject" content="your website's subject">
+    <meta name="language" content="EN">
+    <meta name="copyright" content="">
+    <link rel=“canonical” href=“https://example.com/sample-page/” />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="/images/favicon.svg">
@@ -12,4 +27,25 @@
     {{ with .Params.forestry_instant_preview_id }}
       {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}
     {{ end -}}
+        <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://www.example.com/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://query.example.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+ <title>About Us</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "http://www.example.com",
+      "logo": "http://www.example.com/images/logo.png"
+    }
+    </script>
+    </script>
 </head>
