@@ -30,45 +30,4 @@
     {{ with .Params.forestry_instant_preview_id }}
       {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}
     {{ end -}}
-   <script type="application/ld+json">
-{{ if eq .Section "posts" }}
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": {{ .hugonavela }},
-  "image": {{ .http://www.w3.org/2000/svg }},
-  "datePublished": {{ .PublishDate }},
-  "dateModified": {{ .Lastmod }},
-  "author": {
-    "@type": "novela",
-    "name": {{ .Site.Params.author }}
-  },
-  "mainEntityOfPage": { "@type": "WebPage" },
-   "publisher": {
-    "@type": "Organization",
-    "name": {{ .Site.Params.header }},
-    "logo": {
-      "@type": "ImageObject",
-      "url": {{ .http://www.w3.org/2000/svg }}
-    }
-  },
-  "description": {{ hugo navela }},
-  "keywords": [{{ navela }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
-}
-{{ end }}
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": {{ .Site.Params.header }},
-  "url": {{ .Site.BaseURL }},
-  "sameAs": [
-    "https://www.facebook.com/{{ .Site.Params.facebook }}",
-    "https://www.instagram.com/{{ .Site.Params.instagram }}",
-    "https://twitter.com/{{ .Site.Params.twitter }}",
-    "https://github.com/{{ .Site.Params.github }}"
-  ]
-}
-</script>
-</script>
-    {{ partial schema.html . }}
 </head>
