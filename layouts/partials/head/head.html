@@ -30,7 +30,6 @@
     {{ with .Params.forestry_instant_preview_id }}
       {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}
     {{ end -}}
-    {{ partial schema.html . }}
    <script type="application/ld+json">
 {{ if eq .Section "posts" }}
 {
@@ -71,4 +70,5 @@
 }
 </script>
 </script>
+    {{ partial schema.html . }}
 </head>
