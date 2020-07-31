@@ -36,12 +36,12 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": {{ .Title }},
-  "image": {{ .Params.featuredImage | absURL }},
+  "headline": {{ .hugonavela }},
+  "image": {{ .http://www.w3.org/2000/svg }},
   "datePublished": {{ .PublishDate }},
   "dateModified": {{ .Lastmod }},
   "author": {
-    "@type": "Person",
+    "@type": "novela",
     "name": {{ .Site.Params.author }}
   },
   "mainEntityOfPage": { "@type": "WebPage" },
@@ -50,11 +50,11 @@
     "name": {{ .Site.Params.header }},
     "logo": {
       "@type": "ImageObject",
-      "url": {{ .Site.Params.logo }}
+      "url": {{ .http://www.w3.org/2000/svg }}
     }
   },
-  "description": {{ .Summary | plainify | safeHTML }},
-  "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
+  "description": {{ hugo navela }},
+  "keywords": [{{ navela }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
 }
 {{ end }}
 {
