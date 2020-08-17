@@ -1,26 +1,26 @@
 +++
 authors = []
-date = ""
-excerpt = ""
-hero = ""
-title = ""
+date = 2000-01-31T18:16:00Z
+excerpt = "vanga tori chera pal"
+hero = "/static/images/117206054_1680838538731735_5690300164975020284_o.jpg"
+title = "brigme back"
 
 +++
-[MUCH MORE WITH LESS](https://www.muchmorewithless.co.uk/ "Much More With Less")
+    MUCH MORE WITH LESS
 
 MOVING TO THE COUNTRY, LIVING ON LESS AND MAKING THE MOST OF IT.
 
 * [HOME](http://www.muchmorewithless.co.uk/)
 * [FOOD](https://www.muchmorewithless.co.uk/category/food/)
-  * 
+  \*
 * [FINANCE](https://www.muchmorewithless.co.uk/category/finance/)
 * [FITNESS](https://www.muchmorewithless.co.uk/category/fitness/)
 * [FAMILY](https://www.muchmorewithless.co.uk/category/family/)
 * [FLOWERS](https://www.muchmorewithless.co.uk/category/flowers/)
 * [5 FRUGAL THINGS](https://www.muchmorewithless.co.uk/category/5-frugal-things/)
 * [ABOUT ME](https://www.muchmorewithless.co.uk/about-me/)
-  * 
-  * 
+  \*
+  \*
 * 
 
 29TH JUNE 2020
@@ -231,32 +231,32 @@ Website
 
 ### 6 Comments
 
-1. ![](https://secure.gravatar.com/avatar/04b144190692e9a988b78a5d4a2c0d30?s=40&r=g =40x40)[KATY STEVENS](https://katykicker.com/)29TH JUNE 2020 / 1:48 PM
+1. !\[\](https://secure.gravatar.com/avatar/04b144190692e9a988b78a5d4a2c0d30?s=40&r=g =40x40)[KATY STEVENS](https://katykicker.com/)29TH JUNE 2020 / 1:48 PM
 
    I think keeping chickens is probably one of those things that doesn’t necessarily save you lots of money BUT you get fresher produce, and a much welcome mental health boost from enjoying the fresh air while caring for them etc!
 
    [REPLY](https://www.muchmorewithless.co.uk/cost-to-keep-chickens/#comment-4609)
-   * ![](https://secure.gravatar.com/avatar/5a4aa1ed15c2d66f9544d026e33019f4?s=40&r=g =40x40)FAITH  
+   * !\[\](https://secure.gravatar.com/avatar/5a4aa1ed15c2d66f9544d026e33019f4?s=40&r=g =40x40)FAITH  
      AUTHOR29TH JUNE 2020 / 5:11 PM
 
      Hi Katy – Great way of looking at keeping chickens: fresh produce and fresh air.  
      For me, think our chickens are more pets with the added benefit of eggs. There’s something very calming about watching chickens pottering and pecking.
 
      [REPLY](https://www.muchmorewithless.co.uk/cost-to-keep-chickens/#comment-4612)
-2. ![](https://secure.gravatar.com/avatar/782d02c503a861a7115c41bff83d5d30?s=40&r=g =40x40)ATHENE29TH JUNE 2020 / 6:41 PM
+2. !\[\](https://secure.gravatar.com/avatar/782d02c503a861a7115c41bff83d5d30?s=40&r=g =40x40)ATHENE29TH JUNE 2020 / 6:41 PM
 
    I have kept chickens for years, they are very easy to look after and very rewarding pets. As well as the eggs you will get fabulous compost. A word of caution, a 4 foot fence will not stop a fox from jumping over. I’m not sure where you live, and rural foxes tend to be more shy than urban ones, but if a cat can get into the run then the fox can get in there. Also, foxes can bite through chickenwire. I keep mine in a covered and enclosed aviary unless I am out in the garden to supervise.  
    Sorry to sound that rather sober note, I hope you have years of fun from your chickens. I find the fancy breeds live longer, but lay fewer eggs. The good old brown birds will give you an egg a day for at least a couple of years, and go on laying well after that.
 
    [REPLY](https://www.muchmorewithless.co.uk/cost-to-keep-chickens/#comment-4613)
-   * ![](https://secure.gravatar.com/avatar/5a4aa1ed15c2d66f9544d026e33019f4?s=40&r=g =40x40)FAITH  
+   * !\[\](https://secure.gravatar.com/avatar/5a4aa1ed15c2d66f9544d026e33019f4?s=40&r=g =40x40)FAITH  
      AUTHOR5TH AUGUST 2020 / 12:08 PM
 
      Hi Athene,  
      Thanks for letting me know how high foxes can jump, very worrying! Thankfully no issues yet but will have to see what we can do about an enclosure.
 
      [REPLY](https://www.muchmorewithless.co.uk/cost-to-keep-chickens/#comment-4722)
-3. ![](https://secure.gravatar.com/avatar/484c9f8181910ba8f0a37d7283714764?s=40&r=g =40x40)[VICKY @MORTGAGEFREEBYTHESEA](http://www.mortgagefreebythesea.com/)5TH AUGUST 2020 / 11:39 AM
+3. !\[\](https://secure.gravatar.com/avatar/484c9f8181910ba8f0a37d7283714764?s=40&r=g =40x40)[VICKY @MORTGAGEFREEBYTHESEA](http://www.mortgagefreebythesea.com/)5TH AUGUST 2020 / 11:39 AM
 
    I love keeping chickens. I started using shavings and straw for their bedding. Now I just use shredded paper which then goes into the compost bin when I clear them out. Money saving and frugal and the girls seem to love it.
 
@@ -267,7 +267,7 @@ Website
    Happy chicken watching (if yours are anything like mine then they’ll have their own quirky characters) and enjoy all those lovely eggs!
 
    [REPLY](https://www.muchmorewithless.co.uk/cost-to-keep-chickens/#comment-4719)
-   * ![](https://secure.gravatar.com/avatar/5a4aa1ed15c2d66f9544d026e33019f4?s=40&r=g =40x40)FAITH  
+   * !\[\](https://secure.gravatar.com/avatar/5a4aa1ed15c2d66f9544d026e33019f4?s=40&r=g =40x40)FAITH  
      AUTHOR5TH AUGUST 2020 / 12:07 PM
 
      Oooh very jealous of your Eglu, sounds amazing. What do you do with all the eggs? We get 2 or 3 every day, and I’ve been giving some away as we don’t get through them all.  
@@ -309,16 +309,13 @@ CategoriesSelect Category5 Frugal ThingsFamilyFinanceFitnessFlowersFoodUncategor
 * [![Lockdown spending habits I want to keep](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoAQMAAAD9/NgSAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAADJJREFUeNrtwQENAAAAwiD7p3Z7DmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5HHoAAHnxtRqAAAAAElFTkSuQmCC)](https://www.muchmorewithless.co.uk/lockdown-spending-habits/)
 
   #### _Lockdown spending habits I want to keep_
-
-
 * [![3 ways women can stretch their pension after retirement](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoAQMAAAD9/NgSAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAADJJREFUeNrtwQENAAAAwiD7p3Z7DmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5HHoAAHnxtRqAAAAAElFTkSuQmCC)](https://www.muchmorewithless.co.uk/women-stretch-pension-after-retirement/)
 
   #### _3 ways women can stretch their pension after retirement_
 
 ### NEW POSTS BY EMAIL
 
-  
- I accept that my email will be processed by FeedBurner and their [privacy policy](https://policies.google.com/privacy).
+I accept that my email will be processed by FeedBurner and their [privacy policy](https://policies.google.com/privacy).
 
 ### SHOMOS FINALIST 2019
 
