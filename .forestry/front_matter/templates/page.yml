@@ -2,8 +2,12 @@
 label: page
 hide_body: true
 fields:
-- name: page
-  type: image_gallery
-  config: {}
-  hidden: false
-  label: page
+- name: contact_us
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: contact us
