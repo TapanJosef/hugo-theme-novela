@@ -2,7 +2,7 @@
 authors = []
 date = ""
 excerpt = "vanga"
-hero = ""
+hero = "/static/images/117206054_1680838538731735_5690300164975020284_o.jpg"
 title = "brigme back"
 
 +++
