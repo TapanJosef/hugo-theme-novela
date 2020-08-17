@@ -1,4 +1,9 @@
 ---
 label: page
 hide_body: true
-fields: []
+fields:
+- name: page
+  type: image_gallery
+  config: {}
+  hidden: false
+  label: page
