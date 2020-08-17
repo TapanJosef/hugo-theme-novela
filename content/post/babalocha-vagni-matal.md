@@ -1,8 +1,8 @@
 +++
 authors = []
-date = 2000-01-31T18:16:00Z
-excerpt = "vanga tori chera pal"
-hero = "/static/images/117206054_1680838538731735_5690300164975020284_o.jpg"
+date = ""
+excerpt = "vanga"
+hero = ""
 title = "brigme back"
 
 +++
