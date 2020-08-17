@@ -7,7 +7,6 @@ sections:
 - type: document
   path: contact us
   label: contect us
-  match: "**/*"
   read_only: true
 - type: heading
   label: Content
